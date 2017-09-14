@@ -37,4 +37,4 @@ A client can be any browser or other HTTP client capable of rendering either JPG
 
 ### Capture server vs. Web server
 
-The screen can be captured on a different computer that the web server simply by installing the Capture Server on a machine and pointing the Capture Client on the Web Server to connect to that machine. 
+The screen can be captured on a different computer than the web server simply by installing the Capture Server on a machine and pointing the Capture Client on the Web Server to connect to that machine. 
